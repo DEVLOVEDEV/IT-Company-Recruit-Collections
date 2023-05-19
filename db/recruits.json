@@ -1,0 +1,27 @@
+{
+    "recruits":[{
+        "companyName": "티맵 모빌리티",
+        "link": "https://thecareers.sktelecom.com/Recruit/Detail/2324",
+        "skills": [{
+            "launguage": ["java", "kotlin"],
+            "infra": ["MySQL", "PostgreSQL", "NoSQL"],
+            "framework": ["Spring"]
+        }]
+    },{
+        "companyName": "당근마켓",
+        "link": "https://about.daangn.com/jobs/4672452003/",
+        "skills": [{
+            "launguage": ["java", "kotlin"],
+            "infra": ["kubernetes", "AWS", "GCP"],
+            "framework": ["Spring", "JPA"]
+        }]
+    },{
+        "companyName": "NHN 클라우드",
+        "link": "https://www.nhncloud-seasonrecruit.com/platform-service",
+        "skills": [{
+            "launguage": ["java"],
+            "infra": ["MySQL", "docker", "kubernetes"],
+            "framework": ["Spring", "RxJava"]
+        }]
+    }]
+}
